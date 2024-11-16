@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming/design
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - mr.ffaizrakhmanov@yahoo.com
+- 📫 How to reach me - mr.faizrakhmanov@yahoo.com
 - ⚡ Fact: I live in Russia
 
 <!---
